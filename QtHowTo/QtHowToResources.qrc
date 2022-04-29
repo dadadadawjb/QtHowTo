@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/newFile.png</file>
+        <file>images/openFile.png</file>
+        <file>images/saveFile.png</file>
+        <file>images/saveasFile.png</file>
+        <file>images/exit.png</file>
+        <file>images/cutText.png</file>
+        <file>images/copyText.png</file>
+        <file>images/pasteText.png</file>
+        <file>images/applicationIcon.png</file>
+        <file>images/document.png</file>
+        <file>images/readOnly.png</file>
+        <file>images/writeEnable.png</file>
+        <file>images/pattern.png</file>
+        <file>images/calendar.png</file>
+        <file>images/color.png</file>
+        <file>images/font.png</file>
+        <file>images/widgets.png</file>
+        <file>images/name.png</file>
+        <file>images/gender.png</file>
+        <file>images/age.png</file>
+        <file>images/score.png</file>
+        <file>images/description.png</file>
+        <file>images/misc.png</file>
+        <file>images/custom.png</file>
+        <file>images/dataset.png</file>
+        <file>images/chart.png</file>
+    </qresource>
+</RCC>

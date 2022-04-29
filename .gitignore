@@ -1,0 +1,6 @@
+# build
+build-*/
+
+# deploy
+DeployHowTo/*
+!DeployHowTo/DeployHowTo.md

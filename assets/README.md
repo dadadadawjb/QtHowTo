@@ -1,0 +1,1 @@
+Refer to [Gowalla social network dataset](https://snap.stanford.edu/data/loc-gowalla.html).
